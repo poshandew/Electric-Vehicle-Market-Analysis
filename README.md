@@ -2,9 +2,9 @@
 This analysis dives deep into the electric vehicle dataset to uncover key trends, technological advancements, and market dynamics. By examining both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), the project provides insights into the growth, efficiency, and adoption patterns of EVs across regions and manufacturers.
 
 ### Data Source:
-- [Dataset]([https://drive.google.com/file/d/15SLvsarYG1wRaiZm21cC8XRfiWg0yTc1](https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data)) - Dataset taken from Kaggle
+- [Dataset]([https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data)) - Dataset taken from Kaggle
 
-##📊 Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 
 **Total Vehicles**
 Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
@@ -20,7 +20,7 @@ Understand the overall landscape of electric vehicles, encompassing both BEVs an
 -Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 -Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
-##📊 Tableau Dashboard Use Case
+## 📊 Tableau Dashboard Use Case
 
 -To bring this analysis to life, an interactive dashboard was created using Tableau. This dashboard enables stakeholders to:
 

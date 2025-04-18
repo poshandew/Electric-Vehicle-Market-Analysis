@@ -10,6 +10,8 @@ This analysis dives deep into the electric vehicle dataset to uncover key trends
 
 ![Tableau](https://img.shields.io/badge/Tableau-blue)
 
+
+
 ## 📊 Key Performance Indicators (KPIs)
 
 **Total Vehicles**
@@ -26,6 +28,8 @@ Understand the overall landscape of electric vehicles, encompassing both BEVs an
 -Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 -Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
+
+
 ## 📊 Tableau Dashboard Use Case
 
 -To bring this analysis to life, an interactive dashboard was created using Tableau. This dashboard enables stakeholders to:
@@ -39,6 +43,8 @@ Understand the overall landscape of electric vehicles, encompassing both BEVs an
 -Support decision-making for policymakers, automakers, and sustainability advocates by visualizing key metrics in a compelling format
 
 The dashboard bridges the gap between data and insights, transforming raw numbers into strategic visual stories.
+
+
 
 
 

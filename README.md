@@ -40,3 +40,14 @@ Understand the overall landscape of electric vehicles, encompassing both BEVs an
 
 The dashboard bridges the gap between data and insights, transforming raw numbers into strategic visual stories.
 
+
+
+#
+
+Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/poshandewangan/)
+
+
+
+Happy Learning!

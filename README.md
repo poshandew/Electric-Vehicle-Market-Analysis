@@ -4,6 +4,12 @@ This analysis dives deep into the electric vehicle dataset to uncover key trends
 ### Data Source:
 - [Dataset](https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data) - Dataset taken from Kaggle
 
+  ## 🛠️ Builds with
+
+![Excel](https://img.shields.io/badge/Excel-darkgreen)
+
+![Tableau](https://img.shields.io/badge/Tableau-blue)
+
 ## 📊 Key Performance Indicators (KPIs)
 
 **Total Vehicles**

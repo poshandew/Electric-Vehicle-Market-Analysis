@@ -2,7 +2,7 @@
 This analysis dives deep into the electric vehicle dataset to uncover key trends, technological advancements, and market dynamics. By examining both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), the project provides insights into the growth, efficiency, and adoption patterns of EVs across regions and manufacturers.
 
 ### Data Source:
-- [Dataset]([https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data]) - Dataset taken from Kaggle
+- [Dataset](https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data) - Dataset taken from Kaggle
 
 ## 📊 Key Performance Indicators (KPIs)
 

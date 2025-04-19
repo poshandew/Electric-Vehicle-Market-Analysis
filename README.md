@@ -44,7 +44,8 @@ Understand the overall landscape of electric vehicles, encompassing both BEVs an
 
 The dashboard bridges the gap between data and insights, transforming raw numbers into strategic visual stories.
 
-
+ ## Visit Dashboard 
+[Dashboard](https://public.tableau.com/views/EVMarketAnalysis_17449223472910/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - made in Tableau Public
 
 
 
